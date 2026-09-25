@@ -1,0 +1,1 @@
+selector1._domainkey.example.com IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqh..."

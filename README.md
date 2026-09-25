@@ -1,2 +1,3 @@
-# Email-Security-Lab
-SPF, DKIM, DMARC analysis and email security posture lab.
+# Email Security Lab
+Analysis of SPF, DKIM, and DMARC records with recommendations for improving email security posture.
+
